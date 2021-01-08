@@ -1,0 +1,18 @@
+{
+    "giftCard1":
+    {
+        "amount":"$10",
+        "recipientName":"recipientNameHere",
+        "recipientEmail":"recipientEmailHere@domain.com",
+        "senderName":"senderNameHere",
+        "senderEmail":"senderEmailHere@domain.com"
+    },
+    "giftCard2":
+    {
+        "amount":"$10",
+        "recipientName":"recipientNameHere",
+        "recipientEmail":"recipientEmailHere@domain.com",
+        "senderName":"senderNameHere",
+        "senderEmail":"senderEmailHere@domain.com"
+    }
+}
